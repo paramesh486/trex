@@ -66,6 +66,9 @@ function setup() {
   obstaclesGroup = new Group();
   
   score = 0;
+     console.log("shivaan")
+     console.log("poddar");
+
 }
 
 function draw() {
